@@ -41,16 +41,16 @@ class Rover {
     }
 
     public void move() {
-        // Implement movement logic based on the direction
+        
         // (Update x and y coordinates accordingly)
     }
 
     public void turnLeft() {
-        // Implement logic to turn the rover left
+    
     }
 
     public void turnRight() {
-        // Implement logic to turn the rover right
+      
     }
 
     public void executeCommands(List<Command> commands) {
@@ -65,19 +65,19 @@ class Rover {
 
 
 	public int getX() {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
 	public int getY() {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
 
 
 	public String getDirection() {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
