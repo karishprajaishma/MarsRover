@@ -62,6 +62,26 @@ class Rover {
     public String getStatusReport() {
         return "Rover is at (" + x + ", " + y + ") facing " + direction + ". No Obstacles detected.";
     }
+
+
+	public int getX() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public int getY() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+
+
+	public String getDirection() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
 }
 
 // Define the ObstacleGrid class
